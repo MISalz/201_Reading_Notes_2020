@@ -14,22 +14,29 @@ Class 2  | HTML Chapter 2: “Text” (pp.40-61)
 Class 3  | HTML Chapter 3: “Lists” (pp.62-73)
          | HTML Chapter 13: “Boxes” (pp.300-329)
          | JS  Chapter 4: “Decisions and Loops” from switch statements on (pp.162-182)
-Class 4  | HTML
+Class 4  | HTML   Chapter 4: Ch.4 “Links” (pp.74-93)
+         | HTML Chapter 15: “Layout” (pp.358-404)
+         | JS Chapter 3 (first part): “Functions, Methods, and Objects” (pp.86-99 ONLY)
+         | JS Article: “6 Reasons for Pair Programming”
+Class 5  | HTML Chapter 5: “Images” (pp.94-125)
+         | HTML Chapter 11: “Color” (pp.246-263)
+         | HTML Chapter 12: “Text” (pp.264-299)
+Class 6  | [Article](http://simpleprogrammer.com/2013/07/15/understanding-the-problem-domain-is-the-hardest-part-of-programming)
+         | JS Chapter 3: “Object Literals” (pp.100-105)
+         | JS Chapter 5: “Document Object Model” (pp.183-242)
+Class 7  | HTML Chapter 6: “Tables” (pp.126-145)
+         | JS Chapter 3: “Functions, Methods, and Objects” (pp.106-144)
+Class 8  | HTML HTML/CSS book, Ch. 15, “Layout” (again; repeat of Class 4 reading)
          | JS
-Class 5  | HTML
-         | JS
-Class 6  | HTML
-         | JS
-Class 7  | HTML
-         |  JS
-Class 8  | HTML
-         |  JS
-Class 9  | HTML
-         |  JS
+Class 9  | HTML Chapter 7: “Forms” (p.144-175)
+         | HTML Chapter 14: “Lists, Tables & Forms” (pp.330-357)
+         | JS Chapter 6: “Events” (pp.243-292)
 Class 10 | HTML
-         | JS
-Class 11 | HTML
-         | JS
+         | JS JavaScript book, Ch. 10, “Error Handling & Debugging”
+Class 11 | HTML Chapter 16: “Images” (pp.406-427)
+         | HTML Chapter 19: “Practical Information” (476-492)
+         | [Article] (https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs)
+ >skim   | JS Chapter 9: pages 201-206 only. Flash is no longer supported by many browsers but is an important part of history.
 Class 12 | HTML
          | JS
 Class 13 | HTML
