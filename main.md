@@ -4,7 +4,7 @@ description: Class 201 attending at Codefellows March 21,2020. Notes for all lea
 
 # Reading  Assignments
 
-| ## Class    | ## Reading Assignment|
+| Class    | Reading Assignment|
 ---------|----------------------
 |Class 1  |
 |Class 2  | HTML Chapter 2: “Text” (pp.40-61)
