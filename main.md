@@ -2,9 +2,9 @@ theme: jekyll-theme-minimal
 title: Code 201 Reading Notes
 description: Class 201 attending at Codefellows March 21,2020. Notes for all learnings
 
-#Reading  Assignments
+# Reading  Assignments
 
-##Class    | ##Reading Assignment
+## Class    | ## Reading Assignment
 ---------|----------------------
 Class 1  |
 Class 2  | HTML Chapter 2: “Text” (pp.40-61)
@@ -44,11 +44,11 @@ Class 12 | [Article](https://www.webdesignerdepot.com/2013/11/easily-create-stun
          | [Applying Styles and Colors](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors)
          | [Drawing Text](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text)
 Class 13 | [Article](http://diveinto.html5doctor.com/storage.html)
-Class 14 | [Article1](https://www.google.com/amp/mobile.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.amp.html)
-         | [Article2] (http://learn.shayhowe.com/advanced-html-css/css-transforms/)
+Class 14 | [Article1](https://www.google.com/amp/mobile.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-          |perfect-team.amp.html)
+          [Article2] (http://learn.shayhowe.com/advanced-html-css/css-transforms/)
          | [8 Simple CSS3 Transitions] (http://learn.shayhowe.com/advanced-html-css/transitions-animations/)
          | [6 Buttons Animated}(http://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users)
          | [CSS3 Animations](http://codepen.io/retyui/pen/ByoaXV)
          | [404](http://codepen.io/kieranfivestars/pen/MYdQxX)
          | [Pure CSS Bounce Animation](http://codepen.io/dp_lewis/pen/gCfBv)
-         | [Article](https://www.google.com/amp/mobile.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.amp.html)
+         | [Article](https://www.google.com/amp/mobile.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-|perfect-team.amp.html)
