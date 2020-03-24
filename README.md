@@ -1,6 +1,6 @@
 ### Class 201 attending at Codefellows March 21,2020. Notes for all learnings
 
-# Reading  Assignments
+# Class 201 Reading Notes
 
 | Class    | Reading Assignment|
 ---------|----------------------
