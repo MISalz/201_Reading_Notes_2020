@@ -1,6 +1,4 @@
-theme: jekyll-theme-minimal
-title: Code 201 Reading Notes
-description: Class 201 attending at Codefellows March 21,2020. Notes for all learnings
+### Class 201 attending at Codefellows March 21,2020. Notes for all learnings
 
 # Reading  Assignments
 
