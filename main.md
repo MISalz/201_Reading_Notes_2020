@@ -4,7 +4,7 @@ description: Class 201 attending at Codefellows March 21,2020. Notes for all lea
 
 # Reading  Assignments
 
-|## Class    | ## Reading Assignment|
+| ## Class    | ## Reading Assignment|
 ---------|----------------------
 |Class 1  |
 |Class 2  | HTML Chapter 2: “Text” (pp.40-61)
@@ -35,16 +35,17 @@ description: Class 201 attending at Codefellows March 21,2020. Notes for all lea
 |         | JS JavaScript book, Ch. 10, “Error Handling & Debugging”
 |Class 11 | HTML Chapter 16: “Images” (pp.406-427)
 |         | HTML Chapter 19: “Practical Information” (476-492)
-|        | [Article] (https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs)
+|        | [Article](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs)
 | skim   | JS Chapter 9: pages 201-206 only. Flash is no longer supported by many browsers but is an important part of history.
-|Class 12 | [Article](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/){:target="_blank"} |         | JS [Article](http://www.chartjs.org/docs/)
+|Class 12 | [Article](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
+|         | JS [Article](http://www.chartjs.org/docs/)
 |         | [Basic Usage](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage)
 |         | [Drawing Shapes with canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes)
-|         | [Applying Styles and Colors](https://developer.mozilla.org/en-|US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors)
+|         | [Applying Styles and Colors](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors)
 |         | [Drawing Text](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text)
 |Class 13 | [Article](http://diveinto.html5doctor.com/storage.html)
-|Class 14 | [Article1](https://www.google.com/amp/mobile.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build- the-perfect-team.amp.html)
-|          [Article2] (http://learn.shayhowe.com/advanced-html-css/css-transforms/)
+|Class 14 | [Article1](https://www.google.com/amp/mobile.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.amp.html)
+|         | [Article2] (http://learn.shayhowe.com/advanced-html-css/css-transforms/)
 |         | [8 Simple CSS3 Transitions] (http://learn.shayhowe.com/advanced-html-css/transitions-animations/)
 |         | [6 Buttons Animated}(http://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users)
 |         | [CSS3 Animations](http://codepen.io/retyui/pen/ByoaXV)
