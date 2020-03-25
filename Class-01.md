@@ -1,6 +1,6 @@
 # Class 01 Notes
 
-
+|book| Chp|
 ---|---
 |HTML| chp1, chp8, chp17, chp18|
 |JS| chp1|
