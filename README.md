@@ -6,8 +6,8 @@ Notes for all learnings
 | Class    | Reading Assignment| Notes|
 ---------|----------------------|---|
 |Class 1  | |HTML chp1, chp8, chp17, chp18|
-|[Class 01 Notes](https://misalz.github.io/Reading-Notes/class-01.md)|
-         |JSchp1|
+|[Class 01 Notes](https://misalz.github.io/Reading-Notes/Class-01.md)|
+||JSchp1|
 |Class 2  | HTML Chapter 2: “Text” (pp.40-61)
 |         | HTML Chapter 10: Ch.10 “Introducing CSS” (pp.226-245)
 |         | JS  Chapter 2: “Basic JavaScript Instructions” (pp.53-84)
