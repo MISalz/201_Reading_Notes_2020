@@ -6,4 +6,10 @@
 For future reference
 
 *tags act like containers 
- \<p>\
+ \<p>
+
+ *Attributes provide additional info about the contents of an element
+ they are made up of two parts Name and value
+ |attribute name|attribute value|
+ ---|---
+ |lang=|"fr"|
