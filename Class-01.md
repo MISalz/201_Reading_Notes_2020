@@ -20,7 +20,7 @@ For future reference
  HTMl5 is changing elements and elminitating excess code
   Will still use \<div> elements
 
-All HTML reuiqres a doc type
+All HTML requires a doc type
 HTML5 \<!DOCTYPE html>
 
 To add notes:
