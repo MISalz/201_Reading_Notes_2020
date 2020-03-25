@@ -15,6 +15,8 @@ For future reference
  |attribute name|attribute value|
  ---|---
  |lang=|"fr"|
+ |id=|"quote" \(also known as a global attibute)|
+
 
 
  HTMl5 is changing elements and elminitating excess code
@@ -24,4 +26,5 @@ All HTML requires a doc type
 HTML5 \<!DOCTYPE html>
 
 To add notes:
-\<!-->\
+\<!-->
+
