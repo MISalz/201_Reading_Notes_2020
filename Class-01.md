@@ -18,7 +18,7 @@ For future reference
  |id=|"quote" \(also known as a global attibute)|
  |class=|"important" \(to identify several elements with one identifier)|
  
- * Block elements align whole groups such as \<h1>, \<p>, <ul>, <li>
+ * Block elements align whole groups such as \<h1>, \<p>, \<ul>, \<li>
  * In line elements can be placed within the paragraph \<em>
  * Meta element gives information on the page 
 
