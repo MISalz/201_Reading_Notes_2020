@@ -4,8 +4,8 @@
 ## HTML
 | |
 ---|---
-| ul | * Tea * Cofee |
-| ol | * Cofee * Tea |
+| ul | \* Tea \* Cofee |
+| ol | \* Cofee \* Tea |
 | li | Lists |
 
 * you can have embedded ul\/ol lists within
