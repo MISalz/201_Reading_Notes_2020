@@ -2,6 +2,7 @@
 ## Michelle Salazar
 
 ## HTML
+| |
 ---|---
 | ul | * Tea * Cofee |
 | ol | * Cofee * Tea |
