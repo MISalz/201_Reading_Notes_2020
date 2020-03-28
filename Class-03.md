@@ -1,6 +1,18 @@
 # Class 03 Notes
 ## Michelle Salazar
 
+HTML
+| | |
+---|---
+| ul | * Tea * Cofee |
+| ol | * Cofee * Tea |
+| li | Lists |
+
+* you can have embedded ul\/ol lists within
+  * as list
+
+
+JS
 Script  can be written  for decision making script. 
 Use flowcharts to help write this code
 
