@@ -13,9 +13,8 @@
 
 
 ## JS
-Script  can be written  for decision making script. 
-Use flowcharts to help write this code
-
+*Script  can be written  for decision making script. *
+***Use flowcharts to help write this code***
 * Conditional statements if then else
 
 * Switch statement uses cases to that will run until a match is found. 
