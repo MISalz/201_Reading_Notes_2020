@@ -31,4 +31,4 @@ Descendant Selector|Matches an element that is a descendent of another specified
 Adjacent Sibling Selector|Matches an element that is the next sibling of another|h1+p \{} Targets the first \<p> element after any \<h1> element \(but not other \<p> elements) 
 General Sibling Selector|Matches an element that is a sibling of another, although it does not have to be the directly preceding element|h1~p \{} If you had two \<p> elements that are siblings of an \<h1> element, this rule would apply to both
 
-[home](https://misalz.github.io/Reading-Notes)
+# [Home](https://misalz.github.io/Reading-Notes)

@@ -52,4 +52,4 @@ Scripts in JS can be written to give the program instructions on how to behave d
   ---|---|---
   |Content Layer|Presentation Layer| Behavior layer|
 
-  [home](https://misalz.github.io/Reading-Notes)
+  # [Home](https://misalz.github.io/Reading-Notes)
