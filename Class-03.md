@@ -1,7 +1,7 @@
 # Class 03 Notes
 ## Michelle Salazar
 
-##HTML
+## HTML
 | | |
 ---|---
 | ul | * Tea * Cofee |
@@ -12,7 +12,7 @@
   * as list
 
 
-##JS
+## JS
 Script  can be written  for decision making script. 
 Use flowcharts to help write this code
 
