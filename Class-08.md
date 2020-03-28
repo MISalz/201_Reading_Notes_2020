@@ -4,4 +4,4 @@
 
 
 
-|[home](https://misalz.github.io/Reading-Notes)|
+[home](https://misalz.github.io/Reading-Notes)
