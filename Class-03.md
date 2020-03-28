@@ -8,7 +8,7 @@ Use flowcharts to help write this code
 
 * Switch statement uses cases to that will run until a match is found. 
 
-Operators
+|Operators|
 ---|---
 | Equal to |	== |
 | Strict equal to |	=== |
@@ -27,8 +27,9 @@ Operators
 
 * Logical operators are processed left to right.
 
-Loops|
+Loops:
 For	While	Do while
 
-Loop counters
-Initialization 	Condition	Update
+|Loop counters|
+---|
+|Initialization |	Condition |	Update |
