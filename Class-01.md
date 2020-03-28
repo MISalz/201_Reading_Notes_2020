@@ -51,3 +51,4 @@ Scripts in JS can be written to give the program instructions on how to behave d
   |HTML|CSS|Javascript|
   ---|---|---
   |Content Layer|Presentation Layer| Behavior layer|
+  |[home](https://misalz.github.io/Reading-Notes)|
