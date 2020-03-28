@@ -9,6 +9,7 @@ Use flowcharts to help write this code
 * Switch statement uses cases to that will run until a match is found. 
 
 Operators
+---|---
 | Equal to |	== |
 | Strict equal to |	=== |
 | Is not equal to	| !=|
