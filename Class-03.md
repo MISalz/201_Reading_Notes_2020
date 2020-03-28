@@ -1,7 +1,7 @@
 # Class 03 Notes
 ## Michelle Salazar
 
-HTML
+##HTML
 | | |
 ---|---
 | ul | * Tea * Cofee |
@@ -12,7 +12,7 @@ HTML
   * as list
 
 
-JS
+##JS
 Script  can be written  for decision making script. 
 Use flowcharts to help write this code
 
@@ -40,7 +40,7 @@ Use flowcharts to help write this code
 * Logical operators are processed left to right.
 
 Loops:
-For	While	Do while
+**For**	While	**Do** while
 
 | Loop counters |
 ---|
