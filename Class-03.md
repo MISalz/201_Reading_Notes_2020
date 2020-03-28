@@ -14,9 +14,13 @@
 ## JS
 *Script  can be written  for decision making script.*
 ***Use flowcharts to help write this code***
-* Conditional statements if then else
 
-* Switch statement uses cases to that will run until a match is found. 
+* Conditional statements if then else pg 162
+
+* Switch statement uses cases to that will run until a match is found. pg 164
+
+* truthy/ falsey statements pg 167
+
 
 | Operators | |
 ---|---
