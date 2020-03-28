@@ -8,7 +8,7 @@ Use flowcharts to help write this code
 
 * Switch statement uses cases to that will run until a match is found. 
 
-|Operators|
+| Operators |
 ---|---
 | Equal to |	== |
 | Strict equal to |	=== |
@@ -30,6 +30,6 @@ Use flowcharts to help write this code
 Loops:
 For	While	Do while
 
-|Loop counters|
+| Loop counters |
 ---|
-|Initialization |	Condition |	Update |
+| Initialization |	Condition |	Update |
