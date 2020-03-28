@@ -13,7 +13,7 @@
 
 
 ## JS
-*Script  can be written  for decision making script. *
+*Script  can be written  for decision making script.*
 ***Use flowcharts to help write this code***
 * Conditional statements if then else
 
