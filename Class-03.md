@@ -20,6 +20,8 @@
 * Switch statement uses cases to that will run until a match is found. pg 164
 
 * truthy/ falsey statements pg 167
+    ** confused a bit on truthy/ falsey statements **
+
 
 
 | Operators | |
