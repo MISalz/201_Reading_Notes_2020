@@ -17,8 +17,7 @@ Adding images use /<img src=“image.jpg” alt=“penguin” title=“family of
 
 Old html code used align for images but in html5 you will use css to align images
 
-| Rules for using images |
----|
+### Rules for using images 
 * Save in right format jpeg, gif, png
 * Save images at right size
 * Measure in pixels 
