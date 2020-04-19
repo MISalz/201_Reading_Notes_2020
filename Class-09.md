@@ -3,6 +3,89 @@
 
 # HTML
 
+## Form controls
+* Adding text
+    * text input
+    * password input
+    * text area
+* making choices
+    * radio buttons
+    * checkboxes
+    * drop-down boxes
+* submitting forms
+    * submit buttons
+    * image buttons
+* uploading files
+    * file upload
+
+## Form Structure
+\<form>
+\<action>
+\<method>
+\<id>
+
+## Text Input
+
+is used to create several different form controls
+
+\<input type=\"text" name=\"username" size=\"number" maxlength=\"number"\/>
+
+## Password input
+\<input type=\"password" name=\"password" size=\"15" maxlength=\30" \/>
+
+## Text Area
+\<textarea name=\"comments" cols=\"20" rows=\"4">Enter
+your comments...\</textarea>
+
+## Radio Button
+\<input type=\"radio" name=\"genre" value=\"pop" \/>
+
+## Checkbox
+\<input type=\"checkbox" name=\"service"
+value=\"itunes" checked=\"checked" \/>
+
+## Drop down list
+\<select name=\"devices">
+
+\<option value=\"ipod">iPod<\/option>
+
+\<option value=\"radio">Radio<\/option> 
+
+\<option value=\"computer">Computer<\/option>
+
+  \</select>
+
+  ## Submit Button
+\<input type=\"submit" name=\"subscribe"
+value=\"Subscribe" \/>
+
+## table properties
+* **width** to set the width of the table
+* **padding** to set the space between the border of each table cell and its content
+* **text-transform** to convert the content of the table headers to uppercase
+* **letter-spacing, font-size**
+to add additional styling to the content of the table headers
+* **border-top, border-bottom**
+to set borders above and below the table headers
+* **text-align** to align the writing to the left of some table cells and to the right of the others
+* **background-color** to change the background color of the alternating table rows
+* **:hover** to highlight a table row when a user's mouse goes over it
+
+### GAPs betweean cells
+border-spacing, border-collapse
+
+table.one \{
+border-spacing: 5px 15px;}
+
+table.two \{
+border-collapse: collapse;}
+
+**collapse**
+Borders are collapsed into a single border where possible. (border-spacing will be ignored and cells pushed together, and empty-cells properties will be ignored.)
+
+**separate**
+Borders are detached from each other. (border-spacing and empty-cells will be obeyed.)
+
 
 # JS
 ### Events 
