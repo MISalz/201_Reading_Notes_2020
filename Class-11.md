@@ -64,6 +64,9 @@ site by looking at the number of other sites that link to yours.
 6: image alt text
 7: Page descriPtions
 
+## off page seo
+Getting other sites to link to you is just as important as on-page techniques. Search engines help determine how to rank your
+site by looking at the number of other sites that link to yours.
 
 ### Analytics
 As soon as people start coming to your site, you can start analyzing how they found it, what they were looking at and at what point they are leaving. One of the best tools for doing this is a free service offered by Google called Google Analytics.
