@@ -30,15 +30,18 @@ Notes for all learnings
 |         | JS
 |[Class 9](https://misalz.github.io/Reading-Notes/Class-09)  | HTML Chapter 7: “Forms” (p.144-175)
 |         | HTML Chapter 14: “Lists, Tables & Forms” (pp.330-357)
-|         | JS Chapter 6: “Events” (pp.243-292)
-|[Class 10](https://misalz.github.io/Reading-Notes/Class-10) | HTML
-|         | JS JavaScript book, Ch. 10, “Error Handling & Debugging”
-|[Class 11](https://misalz.github.io/Reading-Notes/Class-11) | HTML Chapter 16: “Images” (pp.406-427)
+|  js       |  Chapter 6: “Events” (pp.243-292)
+|[Class 10](https://misalz.github.io/Reading-Notes/Class-10) 
+| HTML
+|    js     |  JavaScript book, Ch. 10, “Error Handling & Debugging”
+|[Class 11](https://misalz.github.io/Reading-Notes/Class-11) 
+| HTML | Chapter 16: “Images” (pp.406-427)
 |         | HTML Chapter 19: “Practical Information” (476-492)
 |        | [Article](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs)
-| skim   | JS Chapter 9: pages 201-206 only. Flash is no longer supported by many browsers but is an important part of history.
-|[Class 12](https://misalz.github.io/Reading-Notes/Class-12) | [Article](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
-|         | JS [Article](http://www.chartjs.org/docs/)
+| skim  JS |  Chapter 9: pages 201-206 only. Flash is no longer supported by many browsers but is an important part of history.
+|[Class 12](https://misalz.github.io/Reading-Notes/Class-12) 
+| | [Article](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
+|         | [Article](http://www.chartjs.org/docs/)
 |         | [Basic Usage](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage)
 |         | [Drawing Shapes with canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes)
 |         | [Applying Styles and Colors](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors)
