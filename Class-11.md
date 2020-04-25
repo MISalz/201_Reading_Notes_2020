@@ -37,9 +37,7 @@ background:  The properties must be specified in the following order, but you ca
 
 ## CSS3 will also support the use of multiple background images by repeating the background shorthand. |
  ---|---
- div \{ background:
-url\(example-1.jpg)
-top left no-repeat, url\(example-2.jpg) bottom left no-repeat, url|(example-3.jpg) centre top repeat-x;}
+| div \{ background: url\(example-1.jpg) top left no-repeat, url\(example-2.jpg) bottom left no-repeat, url|(example-3.jpg) centre top repeat-x;} |
 
 ## image rollovers and sprites pg 417 using css it is possible to create a link or button that changes to a second sytle when a user moves their mouse over it. 
 
