@@ -12,12 +12,17 @@ Rendering data
 var canvas = document.getElementById('tutorial');
 var ctx = canvas.getContext('2d');
 
-Canvas
-https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage
+# Canvas
+https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/
+
+# Basic_usage
+
 Drawing shapes
 https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes
+
 Applying colors
 https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes
+
 Drawing text
 https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text
 
