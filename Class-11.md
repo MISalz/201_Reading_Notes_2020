@@ -74,4 +74,14 @@ As soon as people start coming to your site, you can start analyzing how they fo
 ### FTP
 To transfer your code and images from your computer to your hosting company, you use something known as File Transfer Protocol.
 
+
+# Js chpt 9 APIS (flash)
+
+* the dom and iquery apis allow you to access and update a web page that is loaded in the browser and respond to events
+ 
+* facebook, google+ and twitter apis let you to access and update profiles and create status updates on their platforms
+
+## Modernizr
+is a script you can use in your pages to tell weather the browser supports features of HTML, CSS and javascript
+
 # [Home](https://misalz.github.io/Reading-Notes)
